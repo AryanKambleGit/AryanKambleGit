@@ -39,3 +39,44 @@ I enjoy turning ideas into working applications and continuously improving my de
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+
+
+## 🚀 Featured Projects
+
+### 💬 Real-Time Chat Application
+A real-time chat application built with **Spring Boot, WebSockets, STOMP, SockJS, HTML, Bootstrap & JavaScript**.
+
+- ⚡ Real-time bidirectional messaging
+- 🔄 WebSocket-based communication without page refresh
+- 📡 STOMP publish–subscribe messaging
+- 🎨 Responsive chat interface
+- 🧠 Built to understand real-time system architecture
+
+🔗 [View Project](https://github.com/AryanKambleGit/ChatApplication)
+
+---
+
+### 🌾 Farmer Project — Real-Time Market Access
+A web-based platform designed to provide farmers with **direct market access**, allowing interaction between buyers and sellers.
+
+- 👨‍🌾 Farmer-focused marketplace workflow
+- 🔐 User registration & login
+- 🛒 Buyer and seller interfaces
+- 📦 Requirement and product management
+- 🤖 Integrated chatbot
+- 💻 Java-based web application
+
+🔗 [View Project](https://github.com/AryanKambleGit/FarmerProject)
+
+---
+
+### 🌦️ Weather API Application
+A weather application that fetches and displays **real-time weather information** through an API with a user-friendly interface.
+
+- 🌍 Weather data through API integration
+- 🔎 Location-based weather search
+- 🎨 Clean and responsive UI
+- ⚡ Dynamic weather information
+
+🔗 [View Project](https://github.com/AryanKambleGit/WeatherAPI)
